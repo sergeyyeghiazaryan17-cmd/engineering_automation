@@ -1,0 +1,6 @@
+[INFO] 10:00:01 - Starting IC Simulation Run...
+[INFO] 10:00:02 - Loading module: ALU_32bit
+[WARN] 10:00:08 - Clock frequency is close to maximum threshold.
+[ERROR] 10:00:12 - Setup time violation in module 'ALU_32bit' at path 'reg_A' to 'out'. Negative slack: -0.45ns.
+[FATAL] 10:00:16 - Syntax error in file 'mux.v' line 45: unexpected token 'assign'.
+[INFO] 10:00:17 - Simulation aborted due to fatal errors.
